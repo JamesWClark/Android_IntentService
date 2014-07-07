@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">How To: IntentService</string>
+    <string name="action_settings">Settings</string>
+    <string name="explain_start">Get x,y,z floating point values on a 700 ms cycle.</string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+
+</resources>
